@@ -1,4 +1,4 @@
-### SYMPOWER01 symmetric power supply
+### SYMPOWER01  - symmetric power supply
 
 The SYMPOWER01 module is designed to provide symmetric power supply outputs. This module leverages several key components to ensure efficient and reliable power conversion. This documentation outlines the specifications, usage, and key features of the SYMPOWER01 module.
 
