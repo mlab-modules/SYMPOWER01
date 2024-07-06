@@ -1,12 +1,16 @@
-description: null
+description: Symmetric power supply module with low noise, current limiting, and thermal
+  protection."
 github_branch: SYMPOWER01A
-github_description: null
+github_description: Symmetric power supply module with low noise, current limiting,
+  and thermal protection."
 github_repo: SYMPOWER01
 github_url: https://github.com/mlab-modules/SYMPOWER01
 homepage: false
 images: []
 mark: 50
 status: 1
-tags: []
+tags:
+- mlab-module
+- power-supply
 title: SYMPOWER01
-updated: '2024-07-06T21:55:26.576991+00:00'
+updated: '2024-07-06T21:57:02.413267+00:00'
